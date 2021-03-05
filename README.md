@@ -4,11 +4,11 @@
 # Base de datos MySQL 5.7.31
 
 ## phalcon_prueba FRONTEND
-# JavaScript 4.5.0
+# JavaScript
 # Jquery 3.5.1
 # Jquery.validate 1.17.0
 # Jquery.confirm 3.3.2
-# Bootstrap
+# Bootstrap 4.5.0
 
 ## NOTAS
 # - Se desarrolló en windows, con wamp, PHP ts
